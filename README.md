@@ -14,3 +14,21 @@ Tudo o que for relacionado a ambiente browser. Nesta categoria podemos incluir H
 São os pontos de acesso aos recursos (funcionalidades) da sua aplicação e costumam ser confundidas com as URL. Na verdade URL é apenas uma parte da rota, que tem por responsabilidade fazer a ligação entre a URL  com um *controller* que será responsável por processar a requisição.
 
 No frontend, as rotas (normalmente) estão associadas à *Single Page Applications*.
+
+## Resources
+
+
+
+## Promises
+
+
+
+## Framework
+
+
+
+## Library/ Biblioteca
+
+
+
+## Pre-processadores (Less/Sass)
