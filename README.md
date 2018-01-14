@@ -1,6 +1,7 @@
 <img src="icon.png" align="right" />
 
 # Glossário Front-End
+![Created](https://img.shields.io/badge/created-january%202018-red.svg)
 
 > Um repositório que descreve brevemente os termos comumente utilizados no Front-end. O principal motivo da criação desse repositório foi após ver [este repositório](https://github.com/vedovelli/glossario-frontend), que tem esse objetivo porém está descontinuado, a intenção da criação foi dar continuidade ao mesmo. 
 
