@@ -1,4 +1,4 @@
-# Contribuindo com O glossário!
+# Contribuindo com o glossário!
 
 ## Licença
 
